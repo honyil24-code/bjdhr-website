@@ -2,7 +2,6 @@
 title: "李四博士 | Dr. Li Si"
 date: 2026-04-10T10:00:00+08:00
 draft: false
-name: "李四 | Li Si"
 title: "副理事长 | Vice President"
 photo: "/images/experts/lisi.jpg"
 research_field: "人工智能与健康 | AI and Health"

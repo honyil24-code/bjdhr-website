@@ -2,7 +2,6 @@
 title: "孙七教授 | Prof. Sun Qi"
 date: 2026-04-10T10:00:00+08:00
 draft: false
-name: "孙七 | Sun Qi"
 title: "秘书长 | Secretary General"
 photo: "/images/experts/sunqi.jpg"
 research_field: "数字健康标准 | Digital Health Standards"
