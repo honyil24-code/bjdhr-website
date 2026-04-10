@@ -1,0 +1,25 @@
+<header>
+  <div class="container">
+    <div class="header-content">
+      <h1 class="site-title">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      </h1>
+      <button class="mobile-menu-toggle" aria-label="Toggle menu">
+        ☰
+      </button>
+    </div>
+    
+    <nav class="main-nav">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>
+
+<script>
+  // Mobile menu toggle
+  document.querySelector('.mobile-menu-toggle').addEventListener('click', function() {
+    document.querySelector('nav.main-nav').classList.toggle('active');
+  });
+</script>

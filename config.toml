@@ -74,3 +74,6 @@ googleAnalytics = 'UA-XXXXXXXX-X'
   name = 'Email'
   url = 'mailto:contact@bjdhr.org.cn'
   icon = 'email'
+
+# Custom CSS
+customCSS = ['css/custom.css']

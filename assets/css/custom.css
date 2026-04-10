@@ -1,0 +1,205 @@
+/* Custom CSS for BJDHR - Government Academic Style */
+
+:root {
+  --primary-color: #1a365d;
+  --secondary-color: #2d3748;
+  --accent-color: #3182ce;
+  --text-color: #2d3748;
+  --bg-color: #ffffff;
+  --border-color: #e2e8f0;
+}
+
+/* Global Font */
+body {
+  font-family: 'Segoe UI', 'Microsoft YaHei', '微软雅黑', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+  background: linear-gradient(135deg, var(--primary-color) 0%, #2c5282 100%);
+  border-bottom: 3px solid var(--accent-color);
+}
+
+header h1, header .site-title {
+  color: #ffffff;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Navigation */
+nav.main-nav {
+  background-color: var(--primary-color);
+}
+
+nav.main-nav a {
+  color: #ffffff;
+  font-weight: 500;
+  padding: 0.75rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+nav.main-nav a:hover {
+  background-color: var(--accent-color);
+  color: #ffffff;
+}
+
+/* Hero Banner */
+.hero-banner {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+  color: #ffffff;
+  padding: 4rem 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.hero-banner h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.hero-banner .motto {
+  font-size: 1.25rem;
+  font-weight: 300;
+  opacity: 0.95;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+/* Buttons */
+.btn, button {
+  background-color: var(--accent-color);
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover, button:hover {
+  background-color: var(--primary-color);
+}
+
+/* Footer */
+footer {
+  background-color: var(--secondary-color);
+  color: #ffffff;
+  padding: 2rem;
+  margin-top: 3rem;
+}
+
+footer .icp {
+  text-align: center;
+  font-size: 0.875rem;
+  opacity: 0.8;
+  margin-top: 1rem;
+}
+
+/* Responsive Navigation */
+@media (max-width: 768px) {
+  .mobile-menu-toggle {
+    display: block;
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+  
+  nav.main-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: var(--primary-color);
+    flex-direction: column;
+  }
+  
+  nav.main-nav.active {
+    display: flex;
+  }
+  
+  nav.main-nav a {
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  
+  .hero-banner h1 {
+    font-size: 1.75rem;
+  }
+  
+  .hero-banner .motto {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 769px) {
+  .mobile-menu-toggle {
+    display: none;
+  }
+  
+  nav.main-nav {
+    display: flex !important;
+    flex-direction: row;
+  }
+}
+
+/* Content Styling */
+article h2 {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+article h3 {
+  color: var(--secondary-color);
+  margin-top: 1.5rem;
+}
+
+/* Expert Cards */
+.expert-card {
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.expert-card h2 {
+  color: var(--primary-color);
+  margin-top: 0;
+}
+
+/* News Items */
+.news-item {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+.news-item h2 {
+  margin-top: 0;
+}
+
+.news-item .date {
+  color: var(--secondary-color);
+  font-size: 0.875rem;
+}
