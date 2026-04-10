@@ -1,12 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>uresearch on Beijing Digital Health Research Institute</title>
-    <link>http://localhost:1313/research/</link>
-    <description>Recent content in uresearch on Beijing Digital Health Research Institute</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>研究方向 | Research Directions on Beijing Digital Health Research Institute</title><link>https://bjdhr.org.cn/research/</link><description>Recent content in 研究方向 | Research Directions on Beijing Digital Health Research Institute</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 10 Apr 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://bjdhr.org.cn/research/index.xml" rel="self" type="application/rss+xml"/><item><title>在研课题与项目 | Ongoing Projects</title><link>https://bjdhr.org.cn/research/projects/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/research/projects/</guid><description>&lt;h2 id="在研课题与项目--ongoing-projects"&gt;在研课题与项目 | Ongoing Projects&lt;/h2&gt;
+&lt;h3 id="国家级项目--national-projects"&gt;国家级项目 | National Projects&lt;/h3&gt;
+&lt;h4 id="1-基于人工智能的慢性病管理系统研发"&gt;1. 基于人工智能的慢性病管理系统研发&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;AI-based Chronic Disease Management System&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目编号 | Project No.:&lt;/strong&gt; 2024YFC2505600&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资助单位 | Funding:&lt;/strong&gt; 国家重点研发计划&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;执行期限 | Duration:&lt;/strong&gt; 2024-2027&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;负责人 | PI:&lt;/strong&gt; 张三教授&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;简介 | Description:&lt;/strong&gt; 研发基于AI的慢性病风险评估、预警和个性化干预系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="2-健康医疗大数据共享平台关键技术研究"&gt;2. 健康医疗大数据共享平台关键技术研究&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Health Big Data Sharing Platform Technology&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目编号 | Project No.:&lt;/strong&gt; 82170001&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资助单位 | Funding:&lt;/strong&gt; 国家自然科学基金&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;执行期限 | Duration:&lt;/strong&gt; 2024-2027&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;负责人 | PI:&lt;/strong&gt; 李四博士&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;简介 | Description:&lt;/strong&gt; 研究多源异构健康数据融合与隐私计算技术&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="省部级项目--provincialministerial-projects"&gt;省部级项目 | Provincial/Ministerial Projects&lt;/h3&gt;
+&lt;h4 id="3-北京市智慧医疗示范工程"&gt;3. 北京市智慧医疗示范工程&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Beijing Smart Healthcare Demonstration Project&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>行业政策与标准研究 | Policy and Standards Research</title><link>https://bjdhr.org.cn/research/standards/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/research/standards/</guid><description>&lt;h2 id="行业政策与标准研究--policy-and-standards-research"&gt;行业政策与标准研究 | Policy and Standards Research&lt;/h2&gt;
+&lt;h3 id="政策研究--policy-research"&gt;政策研究 | Policy Research&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;中文：&lt;/strong&gt;
+研究会积极参与数字健康相关政策研究，为政府决策提供智力支持。主要研究方向包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数字健康产业发展政策&lt;/li&gt;
+&lt;li&gt;医疗数据治理政策&lt;/li&gt;
+&lt;li&gt;互联网医疗监管政策&lt;/li&gt;
+&lt;li&gt;人工智能医疗应用伦理规范&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;English:&lt;/strong&gt;
+The Institute actively participates in digital health policy research, providing intellectual support for government decision-making. Main research directions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital health industry development policies&lt;/li&gt;
+&lt;li&gt;Medical data governance policies&lt;/li&gt;
+&lt;li&gt;Internet medical supervision policies&lt;/li&gt;
+&lt;li&gt;AI medical application ethics standards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="标准制定--standards-development"&gt;标准制定 | Standards Development&lt;/h3&gt;
+&lt;h4 id="已发布标准--published-standards"&gt;已发布标准 | Published Standards&lt;/h4&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;标准编号&lt;/th&gt;
+ &lt;th&gt;标准名称&lt;/th&gt;
+ &lt;th&gt;发布日期&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;GB/T 38999-2021&lt;/td&gt;
+ &lt;td&gt;健康信息学 健康数据共享规范&lt;/td&gt;
+ &lt;td&gt;2021-10-11&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;YY/T 1843-2022&lt;/td&gt;
+ &lt;td&gt;人工智能医疗器械 质量要求和测试方法&lt;/td&gt;
+ &lt;td&gt;2022-06-01&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;T/BJDHR 001-2024&lt;/td&gt;
+ &lt;td&gt;远程医疗系统技术要求&lt;/td&gt;
+ &lt;td&gt;2024-01-15&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id="在研标准--standards-under-development"&gt;在研标准 | Standards Under Development&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;健康大数据安全分级指南&lt;/li&gt;
+&lt;li&gt;医疗人工智能系统评估规范&lt;/li&gt;
+&lt;li&gt;智慧医院建设评价标准&lt;/li&gt;
+&lt;li&gt;可穿戴设备健康数据采集规范&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>重点研究领域 | Key Research Areas</title><link>https://bjdhr.org.cn/research/directions/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/research/directions/</guid><description>&lt;h2 id="重点研究领域--key-research-areas"&gt;重点研究领域 | Key Research Areas&lt;/h2&gt;
+&lt;h3 id="1-健康医疗大数据--health-big-data"&gt;1. 健康医疗大数据 | Health Big Data&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;中文：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;健康数据采集与整合技术&lt;/li&gt;
+&lt;li&gt;医疗数据挖掘与分析&lt;/li&gt;
+&lt;li&gt;健康数据安全与隐私保护&lt;/li&gt;
+&lt;li&gt;基于大数据的疾病预测与预警&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;English:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Health data collection and integration technology&lt;/li&gt;
+&lt;li&gt;Medical data mining and analysis&lt;/li&gt;
+&lt;li&gt;Health data security and privacy protection&lt;/li&gt;
+&lt;li&gt;Disease prediction and early warning based on big data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="2-人工智能与健康--ai-and-health"&gt;2. 人工智能与健康 | AI and Health&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;中文：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;医学影像智能识别&lt;/li&gt;
+&lt;li&gt;临床决策支持系统&lt;/li&gt;
+&lt;li&gt;智能健康管理&lt;/li&gt;
+&lt;li&gt;AI药物研发&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;English:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Medical image intelligent recognition&lt;/li&gt;
+&lt;li&gt;Clinical decision support systems&lt;/li&gt;
+&lt;li&gt;Intelligent health management&lt;/li&gt;
+&lt;li&gt;AI drug discovery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="3-数字医疗技术--digital-medical-technology"&gt;3. 数字医疗技术 | Digital Medical Technology&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;中文：&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

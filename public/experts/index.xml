@@ -1,12 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>uexperts on Beijing Digital Health Research Institute</title>
-    <link>http://localhost:1313/experts/</link>
-    <description>Recent content in uexperts on Beijing Digital Health Research Institute</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/experts/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>专家委员会 | Expert Committee on Beijing Digital Health Research Institute</title><link>https://bjdhr.org.cn/experts/</link><description>Recent content in 专家委员会 | Expert Committee on Beijing Digital Health Research Institute</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 10 Apr 2026 10:00:00 +0800</lastBuildDate><atom:link href="https://bjdhr.org.cn/experts/index.xml" rel="self" type="application/rss+xml"/><item><title>孙七教授 | Prof. Sun Qi</title><link>https://bjdhr.org.cn/experts/sunqi/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/experts/sunqi/</guid><description>&lt;h2 id="孙七教授--prof-sun-qi"&gt;孙七教授 | Prof. Sun Qi&lt;/h2&gt;
+&lt;h3 id="基本信息--basic-information"&gt;基本信息 | Basic Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名 | Name:&lt;/strong&gt; 孙七 | Sun Qi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职称 | Title:&lt;/strong&gt; 教授 | Professor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职务 | Position:&lt;/strong&gt; 研究会秘书长 | Secretary General of BJDHR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属机构 | Affiliation:&lt;/strong&gt; 中国标准化研究院&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="研究领域--research-fields"&gt;研究领域 | Research Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;数字健康标准 | Digital Health Standards&lt;/li&gt;
+&lt;li&gt;医疗信息化 | Medical Informatization&lt;/li&gt;
+&lt;li&gt;数据安全与隐私 | Data Security and Privacy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="个人简介--biography"&gt;个人简介 | Biography&lt;/h3&gt;
+&lt;p&gt;孙七教授长期从事医疗健康信息化标准研究，主持制定国家标准10余项，参与国际标准制定3项。在健康数据安全与隐私保护方面有深入研究。&lt;/p&gt;
+&lt;p&gt;Prof. Sun Qi has long been engaged in medical health informatization standards research, leading the formulation of over 10 national standards and participating in 3 international standards. He has in-depth research on health data security and privacy protection.&lt;/p&gt;</description></item><item><title>张三教授 | Prof. Zhang San</title><link>https://bjdhr.org.cn/experts/zhangsan/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/experts/zhangsan/</guid><description>&lt;h2 id="张三教授--prof-zhang-san"&gt;张三教授 | Prof. Zhang San&lt;/h2&gt;
+&lt;h3 id="基本信息--basic-information"&gt;基本信息 | Basic Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名 | Name:&lt;/strong&gt; 张三 | Zhang San&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职称 | Title:&lt;/strong&gt; 教授、博士生导师 | Professor, PhD Supervisor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职务 | Position:&lt;/strong&gt; 研究会理事长 | President of BJDHR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属机构 | Affiliation:&lt;/strong&gt; 北京大学健康医疗大数据国家研究院&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="研究领域--research-fields"&gt;研究领域 | Research Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;健康医疗大数据 | Health Big Data&lt;/li&gt;
+&lt;li&gt;数字医疗技术 | Digital Medical Technology&lt;/li&gt;
+&lt;li&gt;智慧医院建设 | Smart Hospital Construction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="个人简介--biography"&gt;个人简介 | Biography&lt;/h3&gt;
+&lt;p&gt;张三教授是数字健康领域的知名专家，长期从事健康医疗大数据研究。主持国家重点研发计划项目3项，发表SCI论文50余篇，获得国家科技进步二等奖1项。&lt;/p&gt;
+&lt;p&gt;Prof. Zhang San is a renowned expert in digital health, specializing in health big data research. He has led 3 National Key R&amp;amp;D Program projects, published over 50 SCI papers, and received 1 Second Prize of National Science and Technology Progress Award.&lt;/p&gt;</description></item><item><title>李四博士 | Dr. Li Si</title><link>https://bjdhr.org.cn/experts/lisi/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/experts/lisi/</guid><description>&lt;h2 id="李四博士--dr-li-si"&gt;李四博士 | Dr. Li Si&lt;/h2&gt;
+&lt;h3 id="基本信息--basic-information"&gt;基本信息 | Basic Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名 | Name:&lt;/strong&gt; 李四 | Li Si&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职称 | Title:&lt;/strong&gt; 研究员 | Researcher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职务 | Position:&lt;/strong&gt; 研究会副理事长 | Vice President of BJDHR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属机构 | Affiliation:&lt;/strong&gt; 清华大学人工智能研究院&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="研究领域--research-fields"&gt;研究领域 | Research Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;医疗人工智能 | Medical AI&lt;/li&gt;
+&lt;li&gt;机器学习 | Machine Learning&lt;/li&gt;
+&lt;li&gt;健康预测模型 | Health Prediction Models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="个人简介--biography"&gt;个人简介 | Biography&lt;/h3&gt;
+&lt;p&gt;李四博士专注于人工智能在医疗健康领域的应用研究。在Nature Medicine、The Lancet Digital Health等顶级期刊发表论文20余篇，开发的多项AI辅助诊断系统已在国内多家医院应用。&lt;/p&gt;
+&lt;p&gt;Dr. Li Si focuses on AI applications in healthcare. He has published over 20 papers in top journals including Nature Medicine and The Lancet Digital Health. Multiple AI-assisted diagnostic systems developed by his team have been deployed in hospitals across China.&lt;/p&gt;</description></item><item><title>王五教授 | Prof. Wang Wu</title><link>https://bjdhr.org.cn/experts/wangwu/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/experts/wangwu/</guid><description>&lt;h2 id="王五教授--prof-wang-wu"&gt;王五教授 | Prof. Wang Wu&lt;/h2&gt;
+&lt;h3 id="基本信息--basic-information"&gt;基本信息 | Basic Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名 | Name:&lt;/strong&gt; 王五 | Wang Wu&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职称 | Title:&lt;/strong&gt; 教授 | Professor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职务 | Position:&lt;/strong&gt; 专家委员会委员 | Committee Member&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属机构 | Affiliation:&lt;/strong&gt; 北京航空航天大学&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="研究领域--research-fields"&gt;研究领域 | Research Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;健康物联网 | Health Internet of Things&lt;/li&gt;
+&lt;li&gt;可穿戴设备 | Wearable Devices&lt;/li&gt;
+&lt;li&gt;远程健康监测 | Remote Health Monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="个人简介--biography"&gt;个人简介 | Biography&lt;/h3&gt;
+&lt;p&gt;王五教授是健康物联网领域的领军人物，研发的智能健康监测设备已服务超过100万用户。主持国家重点研发计划&amp;quot;数字诊疗装备&amp;quot;专项。&lt;/p&gt;
+&lt;p&gt;Prof. Wang Wu is a leading figure in health IoT. The intelligent health monitoring devices developed by his team have served over 1 million users. He leads the National Key R&amp;amp;D Program &amp;ldquo;Digital Diagnosis and Treatment Equipment&amp;rdquo; project.&lt;/p&gt;</description></item><item><title>赵六博士 | Dr. Zhao Liu</title><link>https://bjdhr.org.cn/experts/zhaoliu/</link><pubDate>Fri, 10 Apr 2026 10:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/experts/zhaoliu/</guid><description>&lt;h2 id="赵六博士--dr-zhao-liu"&gt;赵六博士 | Dr. Zhao Liu&lt;/h2&gt;
+&lt;h3 id="基本信息--basic-information"&gt;基本信息 | Basic Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名 | Name:&lt;/strong&gt; 赵六 | Zhao Liu&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职称 | Title:&lt;/strong&gt; 副教授 | Associate Professor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职务 | Position:&lt;/strong&gt; 专家委员会委员 | Committee Member&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所属机构 | Affiliation:&lt;/strong&gt; 中国人民大学统计学院&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="研究领域--research-fields"&gt;研究领域 | Research Fields&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;健康大数据分析 | Health Big Data Analytics&lt;/li&gt;
+&lt;li&gt;流行病学建模 | Epidemiological Modeling&lt;/li&gt;
+&lt;li&gt;公共卫生决策支持 | Public Health Decision Support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="个人简介--biography"&gt;个人简介 | Biography&lt;/h3&gt;
+&lt;p&gt;赵六博士擅长健康大数据分析与流行病学建模，在新冠疫情期间为北京市政府提供了重要的决策支持。发表高水平论文30余篇，H指数25。&lt;/p&gt;
+&lt;p&gt;Dr. Zhao Liu specializes in health big data analytics and epidemiological modeling. During the COVID-19 pandemic, he provided crucial decision support to the Beijing Municipal Government. He has published over 30 high-impact papers with an H-index of 25.&lt;/p&gt;</description></item></channel></rss>
