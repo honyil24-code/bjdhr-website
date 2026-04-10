@@ -1,0 +1,43 @@
+baseURL = 'https://bjdhr.org'
+languageCode = 'zh-CN'
+title = '北京数字健康研究会'
+theme = 'bjdhr-theme'
+
+[params]
+  description = '北京数字健康研究会官方网站'
+  author = '北京数字健康研究会'
+  keywords = ['数字健康', '健康研究', '学术组织', '北京']
+
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = '关于我们'
+    url = '/about/'
+    weight = 20
+  [[menu.main]]
+    name = '专家委员会'
+    url = '/experts/'
+    weight = 30
+  [[menu.main]]
+    name = '研究方向'
+    url = '/research/'
+    weight = 40
+  [[menu.main]]
+    name = '新闻动态'
+    url = '/news/'
+    weight = 50
+  [[menu.main]]
+    name = '研究成果'
+    url = '/publications/'
+    weight = 60
+  [[menu.main]]
+    name = '会员服务'
+    url = '/membership/'
+    weight = 70
+  [[menu.main]]
+    name = '联系我们'
+    url = '/contact/'
+    weight = 80
