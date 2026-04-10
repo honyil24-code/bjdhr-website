@@ -2,7 +2,7 @@
 title: "王五教授 | Prof. Wang Wu"
 date: 2026-04-10T10:00:00+08:00
 draft: false
-title: "专家委员 | Committee Member"
+position: "专家委员 | Committee Member"
 photo: "/images/experts/wangwu.jpg"
 research_field: "健康物联网 | Health IoT"
 ---

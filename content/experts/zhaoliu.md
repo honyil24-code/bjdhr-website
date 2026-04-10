@@ -2,7 +2,7 @@
 title: "赵六博士 | Dr. Zhao Liu"
 date: 2026-04-10T10:00:00+08:00
 draft: false
-title: "专家委员 | Committee Member"
+position: "专家委员 | Committee Member"
 photo: "/images/experts/zhaoliu.jpg"
 research_field: "健康大数据 | Health Big Data"
 ---

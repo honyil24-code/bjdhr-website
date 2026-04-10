@@ -2,7 +2,7 @@
 title: "张三教授 | Prof. Zhang San"
 date: 2026-04-10T10:00:00+08:00
 draft: false
-title: "理事长 | President"
+position: "理事长 | President"
 photo: "/images/experts/zhangsan.jpg"
 research_field: "数字医疗 | Digital Healthcare"
 ---
