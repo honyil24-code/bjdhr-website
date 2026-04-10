@@ -1,0 +1,76 @@
+baseURL = 'https://bjdhr.org.cn/'
+languageCode = 'zh-cn'
+title = 'Beijing Digital Health Research Institute'
+theme = 'hugo-octopress'
+
+# Enable Disqus comments
+disqusShortname = 'bjdhr-comments'
+
+# Google Analytics
+googleAnalytics = 'UA-XXXXXXXX-X'
+
+[params]
+  # Site description
+  description = '北京数字健康研究会官方网站 - Official website of Beijing Digital Health Research Institute'
+  
+  # Author information
+  author = 'Beijing Digital Health Research Institute'
+  
+  # Copyright
+  copyright = '© 2026 Beijing Digital Health Research Institute. All rights reserved.'
+  
+  # Enable/disable features
+  disableReadingTime = false
+  disableComments = false
+  
+  # Navigation menu
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 10
+  
+  [[menu.main]]
+    name = '关于我们'
+    url = '/about/'
+    weight = 20
+  
+  [[menu.main]]
+    name = '专家委员会'
+    url = '/experts/'
+    weight = 30
+  
+  [[menu.main]]
+    name = '研究方向'
+    url = '/research/'
+    weight = 40
+  
+  [[menu.main]]
+    name = '新闻动态'
+    url = '/news/'
+    weight = 50
+  
+  [[menu.main]]
+    name = '研究成果'
+    url = '/publications/'
+    weight = 60
+  
+  [[menu.main]]
+    name = '会员服务'
+    url = '/membership/'
+    weight = 70
+  
+  [[menu.main]]
+    name = '联系我们'
+    url = '/contact/'
+    weight = 80
+
+# Social links (optional)
+[[params.social]]
+  name = 'GitHub'
+  url = 'https://github.com/bjdhr'
+  icon = 'github'
+
+[[params.social]]
+  name = 'Email'
+  url = 'mailto:contact@bjdhr.org.cn'
+  icon = 'email'
