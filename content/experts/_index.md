@@ -1,9 +1,11 @@
 ---
-title: "uexperts"
-date: 2026-04-10
+title: "专家委员会 | Expert Committee"
+date: 2026-04-10T10:00:00+08:00
 draft: false
 ---
 
-# EXPERTS Page
+# 专家委员会 | Expert Committee
 
-This is the experts page.
+北京数字健康研究会汇聚了数字健康领域的顶尖专家学者。
+
+BJDHR brings together top experts and scholars in the field of digital health.
