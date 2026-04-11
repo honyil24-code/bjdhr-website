@@ -1,0 +1,22 @@
+{
+  "name": "bjdhr-website",
+  "version": "1.0.0",
+  "description": "北京数字健康研究会官方网站 - Beijing Digital Health Research Institute",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "concurrently \"npm run dev:hugo\" \"npm run dev:server\"",
+    "dev:hugo": "hugo server -D",
+    "dev:server": "node backend/server.js",
+    "build": "hugo --minify"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

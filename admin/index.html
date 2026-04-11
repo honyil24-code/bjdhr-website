@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>后台管理 - 北京数字健康研究会</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            background: #f5f5f5;
+        }
+        .header {
+            background: #1a365d;
+            color: white;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header h1 { font-size: 1.25rem; }
+        .logout-btn {
+            background: #3182ce;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .card h2 {
+            color: #1a365d;
+            margin-bottom: 1rem;
+            font-size: 1.125rem;
+        }
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        .info-item {
+            padding: 0.75rem;
+            background: #f7fafc;
+            border-radius: 4px;
+        }
+        .info-item label {
+            color: #718096;
+            font-size: 0.875rem;
+        }
+        .info-item p {
+            color: #2d3748;
+            font-weight: 500;
+            margin-top: 0.25rem;
+        }
+        .nav-menu {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        .nav-menu a {
+            padding: 0.75rem 1.5rem;
+            background: white;
+            color: #1a365d;
+            text-decoration: none;
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .nav-menu a:hover {
+            background: #1a365d;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏛️ 北京数字健康研究会 - 后台管理系统</h1>
+        <button class="logout-btn" onclick="logout()">退出登录</button>
+    </div>
+    
+    <div class="container">
+        <div class="nav-menu">
+            <a href="#dashboard">控制台</a>
+            <a href="#experts">专家管理</a>
+            <a href="#news">新闻管理</a>
+            <a href="#members">会员管理</a>
+            <a href="#messages">留言管理</a>
+        </div>
+        
+        <div class="card">
+            <h2>研究会基本信息 | Organization Info</h2>
+            <div class="info-grid">
+                <div class="info-item">
+                    <label>名称 | Name</label>
+                    <p>北京数字健康研究会</p>
+                </div>
+                <div class="info-item">
+                    <label>成立时间 | Founded</label>
+                    <p>2022</p>
+                </div>
+                <div class="info-item">
+                    <label>会长 | President</label>
+                    <p>于德志</p>
+                </div>
+                <div class="info-item">
+                    <label>统一社会信用代码</label>
+                    <p>51110000MJ0101505U</p>
+                </div>
+                <div class="info-item">
+                    <label>注册地址 | Address</label>
+                    <p>北京市怀柔区永乐北二街9号院5号楼三层302室</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>快速操作 | Quick Actions</h2>
+            <p>后台管理功能开发中...</p>
+            <p>Backend management features under development...</p>
+        </div>
+    </div>
+    
+    <script>
+        async function logout() {
+            await fetch('/api/logout', { method: 'POST' });
+            window.location.href = '/admin/login.html';
+        }
+    </script>
+</body>
+</html>
