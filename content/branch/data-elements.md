@@ -19,6 +19,51 @@ The Health Service Data Elements Branch of BJDHR was established on **February 8
 
 The founding conference was held in Beijing on February 8, 2026, with guidance from the National Health Commission, Health Development Research Center, and Beijing Municipal Health Commission. Over **80 experts** attended, including representatives from China Community Health Association, Peking University Clinical Research Institute, university professors, and industry leaders.
 
+---
+
+## 专家委员会 | Expert Committee
+
+### 院士成员 | Academicians
+- **王东明** 院士
+- **任福继** 院士
+- **杨善林** 院士
+- **方明** 院士
+
+### 专家委员会成员 | Committee Members
+- **王立梅** — 中国政法大学教授、数据法治研究院副院长
+- **孙毅** — 中国科学院大学教授、经济与管理学院院长助理
+- **张涛** — 中国社会科学院大学经济学院执行院长
+- **朱志杰**
+- **吴沈括** — 北京师范大学法学院院长助理、博导
+- **邢会强** — 中央财经大学教授、博士生导师
+- **赵精武** — 北京航空航天大学法学院院长助理
+- **谢丹夏**
+- **李志杰** — 清华大学五道口金融创新研究院副院长
+- **陈福** — 北京大成律师事务所高级合伙人
+
+### 指导委员会 | Steering Committee
+- 卢廷纯
+- 杨东
+- 姜怀浩
+- 蔡红宇
+- 李晓鹏
+- 杨杰
+
+---
+
+## 成立大会主题报告专家 | Keynote Speakers at Founding Conference
+
+| 主题 | 主讲专家 |
+|------|---------|
+| 数据要素×医疗健康的建设、管理与应用思考 | **冯天宜** 主任/高级工程师（中国信息通信研究院云大所数字健康部） |
+| 从资源到资产：AI驱动的医健数据要素化与合规增值 | **黄基** 主任/高级工程师（福建省立医院信息中心） |
+| ISO 55013——医疗健康领域的数据资产管理 | **杨晓峰** 主任/正高级工程师（广州市标准化研究院事业管理部） |
+| 数据要素背景和医疗健康数据 | **陈斌** 主任/高级统计师（西湖大学附属杭州第一人民医院） |
+| 数据要素助力医院精细化管理实践 | **廖茂成** 主任/副研究员（粤北人民医院） |
+| 健康医疗数据要素化路径的探索和实践 | **梁会营** 处长/研究员（广东省人民医院） |
+
+---
+
 ## 宗旨与工作目标 | Mission & Objectives
 
 以推动健康医疗行业高质量发展为核心，重点开展五大工作：
@@ -38,6 +83,8 @@ Focusing on high-quality development of the health industry, we carry out five k
 3. **Connect with data exchanges** to promote compliant data circulation
 4. **Lead national ministry projects** on "Data Elements Empowering High-Quality Hospital Development"
 5. **Build high-end exchange platforms** for industry collaboration
+
+---
 
 ## 会员招募 | Membership
 
@@ -67,6 +114,8 @@ Focusing on high-quality development of the health industry, we carry out five k
 
 **会费 Dues:** 1,000元/年
 
+---
+
 ## 招募对象 | Who Should Join
 
 ### 单位会员 | Organizations
@@ -80,6 +129,8 @@ Focusing on high-quality development of the health industry, we carry out five k
 - 三甲医院/医疗集团信息化、医务、科研领域骨干
 - 数据科学、医疗信息化、合规法律、数据交易领域专家
 - 关注医疗数据要素领域的行业从业者、科研人员
+
+---
 
 ## 联系方式 | Contact
 
