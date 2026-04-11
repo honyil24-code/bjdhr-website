@@ -1,49 +1,55 @@
 ---
-title: "重点研究领域 | Key Research Areas"
-date: 2026-04-10T10:00:00+08:00
+title: "研究方向 | Research Directions"
+date: 2026-04-11T10:00:00+08:00
 draft: false
 ---
 
 ## 重点研究领域 | Key Research Areas
 
-### 1. 健康医疗大数据 | Health Big Data
+### 1. AI医院建设 | AI Hospital Construction
 
 **中文：**
-- 健康数据采集与整合技术
-- 医疗数据挖掘与分析
-- 健康数据安全与隐私保护
-- 基于大数据的疾病预测与预警
+推动智慧医院数字化转型，研究AI医院建设路径、智慧医院管理模式创新、数字化服务流程优化等。
 
 **English:**
-- Health data collection and integration technology
-- Medical data mining and analysis
-- Health data security and privacy protection
-- Disease prediction and early warning based on big data
+Promoting digital transformation of smart hospitals, researching AI hospital construction pathways, innovative management models, and optimized digital service processes.
 
-### 2. 人工智能与健康 | AI and Health
+### 2. 医疗人工智能 | Medical Artificial Intelligence
 
 **中文：**
-- 医学影像智能识别
-- 临床决策支持系统
-- 智能健康管理
-- AI药物研发
+研究AI在医疗垂直领域的应用与落地，包括智能诊断、辅助治疗、药物研发等。
 
 **English:**
-- Medical image intelligent recognition
-- Clinical decision support systems
-- Intelligent health management
-- AI drug discovery
+Researching AI applications in medical vertical fields, including intelligent diagnosis, assisted treatment, and drug discovery.
 
-### 3. 数字医疗技术 | Digital Medical Technology
+### 3. 健康数据要素 | Health Data Elements
 
 **中文：**
-- 远程医疗技术
-- 智慧医院建设
-- 数字疗法
-- 可穿戴健康设备
+研究可信数据空间建设、健康数据流通机制、数据隐私保护技术等。
 
 **English:**
-- Telemedicine technology
-- Smart hospital construction
-- Digital therapeutics
-- Wearable health devices
+Researching trusted data space construction, health data circulation mechanisms, and data privacy protection technologies.
+
+### 4. 智能诊疗装备 | Intelligent Diagnosis Equipment
+
+**中文：**
+研究手术机器人、智能医学影像、远程医疗装备等智能诊疗设备的研发与应用。
+
+**English:**
+Researching development and application of intelligent diagnosis equipment including surgical robots, intelligent medical imaging, and telemedicine devices.
+
+### 5. 重大疾病防治 | Major Disease Prevention
+
+**中文：**
+利用数字技术赋能精准医疗，研究重大疾病早期筛查、精准诊断和个性化治疗。
+
+**English:**
+Leveraging digital technology to enable precision medicine, researching early screening, precise diagnosis, and personalized treatment of major diseases.
+
+### 6. 医院治理变革 | Hospital Governance Reform
+
+**中文：**
+研究数字化管理模式创新、医院服务流程再造、医疗质量智能监控等。
+
+**English:**
+Researching digital management model innovation, hospital service process reengineering, and intelligent medical quality monitoring.
