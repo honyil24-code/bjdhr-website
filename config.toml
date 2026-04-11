@@ -24,7 +24,7 @@ googleAnalytics = 'UA-XXXXXXXX-X'
   disableComments = false
   
   # Custom CSS
-customCSS = ['css/custom.css']
+customCSS = ['css/custom.css', 'css/components.css']
 
 # Navigation menu
 [[menu.main]]
@@ -72,3 +72,8 @@ customCSS = ['css/custom.css']
   name = 'Email'
   url = 'mailto:contact@bjdhr.org.cn'
   icon = 'email'
+
+[[menu.main]]
+  name = '资料下载 | Downloads'
+  url = '/downloads/'
+  weight = 55

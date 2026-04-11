@@ -1,0 +1,27 @@
+<!-- News Subscription -->
+<div class="subscribe-section">
+  <h3>订阅新闻 | Subscribe to News</h3>
+  <p>获取最新学术活动、研究成果和行业动态</p>
+  <p>Get the latest academic events, research results, and industry updates</p>
+  
+  <form action="https://formspree.io/f/YOUR_NEWSLETTER_FORM_ID" method="POST" class="subscribe-form">
+    <div class="form-row">
+      <input type="email" name="email" placeholder="您的邮箱 | Your email" required>
+      <input type="text" name="name" placeholder="您的姓名 | Your name">
+    </div>
+    <div class="form-row">
+      <label class="checkbox-label">
+        <input type="checkbox" name="interests" value="events"> 学术活动 | Events
+      </label>
+      <label class="checkbox-label">
+        <input type="checkbox" name="interests" value="research"> 研究成果 | Research
+      </label>
+      <label class="checkbox-label">
+        <input type="checkbox" name="interests" value="news"> 行业新闻 | News
+      </label>
+    </div>
+    <button type="submit" class="subscribe-btn">
+      <i class="fas fa-envelope"></i> 订阅 | Subscribe
+    </button>
+  </form>
+</div>

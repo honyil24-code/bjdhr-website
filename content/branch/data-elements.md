@@ -135,16 +135,20 @@ Focusing on high-quality development of the health industry, we carry out five k
 ## 联系方式 | Contact
 
 **联系人 Contacts:**
-- 王老师 Teacher Wang
-- 吴老师 Teacher Wu
+- **王老师** Teacher Wang
+  - 电话 Phone: 18367628918 (微信同号 WeChat)
+  - 邮箱 Email: wangwei@shuzijk.cn
+  
+- **吴老师** Teacher Wu
+  - 电话 Phone: 17332710705 (微信同号 WeChat)
+  - 邮箱 Email: wuxiaomei@shuzijk.cn
 
-**电话 Phone:**
-- 18367628918 (微信同号 WeChat)
-- 17332710705 (微信同号 WeChat)
+**分会会员报名入口 | Membership Registration:**
+[扫描二维码填写问卷 | Scan QR code to fill out the form]
 
-**邮箱 Email:**
-- wangwei@shuzijk.cn
-- wuxiaomei@shuzijk.cn
+**咨询联络 | Inquiry Contact:**
+欢迎致电或邮件咨询会员相关事宜  
+Welcome to call or email for membership inquiries
 
 ---
 

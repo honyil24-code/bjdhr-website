@@ -1,0 +1,44 @@
+<!-- Simple Search -->
+<div class="search-section">
+  <h3>站内搜索 | Search</h3>
+  <form class="search-form" action="/search" method="GET">
+    <input type="text" name="q" placeholder="输入关键词搜索... | Search keywords..." required>
+    <button type="submit"><i class="fas fa-search"></i></button>
+  </form>
+  
+  <!-- Simple client-side search results container -->
+  <div id="search-results" class="search-results"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchForm = document.querySelector('.search-form');
+  const resultsContainer = document.getElementById('search-results');
+  
+  searchForm.addEventListener('submit', function(e) {
+    e.preventDefault();
+    const query = this.querySelector('input[name="q"]').value.toLowerCase();
+    
+    // Simple client-side search through page content
+    const pages = [
+      {title: '关于我们', url: '/about/', desc: '北京数字健康研究会简介'},
+      {title: '专家委员会', url: '/experts/', desc: '研究会专家委员会成员'},
+      {title: '健康服务数据要素分会', url: '/branch/data-elements/', desc: '分会介绍与会员招募'},
+      {title: '新闻动态', url: '/news/', desc: '最新新闻与活动'},
+      {title: '联系我们', url: '/contact/', desc: '联系方式与地址'}
+    ];
+    
+    const results = pages.filter(p => 
+      p.title.toLowerCase().includes(query) || 
+      p.desc.toLowerCase().includes(query)
+    );
+    
+    if (results.length > 0) {
+      resultsContainer.innerHTML = '<h4>搜索结果 | Search Results</h4>' + 
+        results.map(r => `<div class="result-item"><a href="${r.url}">${r.title}</a><p>${r.desc}</p></div>`).join('');
+    } else {
+      resultsContainer.innerHTML = '<p>未找到相关结果 | No results found</p>';
+    }
+  });
+});
+</script>

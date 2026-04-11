@@ -1,1 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 北京数字健康研究会 | Beijing Digital Health Research Institute</title><link>https://bjdhr.org.cn/tags/</link><description>Recent content in Tags on 北京数字健康研究会 | Beijing Digital Health Research Institute</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 10 Apr 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://bjdhr.org.cn/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Inauguration</title><link>https://bjdhr.org.cn/tags/inauguration/</link><pubDate>Fri, 10 Apr 2026 09:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/inauguration/</guid><description/></item><item><title>成立</title><link>https://bjdhr.org.cn/tags/%E6%88%90%E7%AB%8B/</link><pubDate>Fri, 10 Apr 2026 09:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/%E6%88%90%E7%AB%8B/</guid><description/></item><item><title>重要新闻</title><link>https://bjdhr.org.cn/tags/%E9%87%8D%E8%A6%81%E6%96%B0%E9%97%BB/</link><pubDate>Fri, 10 Apr 2026 09:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/%E9%87%8D%E8%A6%81%E6%96%B0%E9%97%BB/</guid><description/></item><item><title>Conference</title><link>https://bjdhr.org.cn/tags/conference/</link><pubDate>Wed, 08 Apr 2026 14:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/conference/</guid><description/></item><item><title>学术会议</title><link>https://bjdhr.org.cn/tags/%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE/</link><pubDate>Wed, 08 Apr 2026 14:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE/</guid><description/></item><item><title>征文</title><link>https://bjdhr.org.cn/tags/%E5%BE%81%E6%96%87/</link><pubDate>Wed, 08 Apr 2026 14:00:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/%E5%BE%81%E6%96%87/</guid><description/></item><item><title>Cooperation</title><link>https://bjdhr.org.cn/tags/cooperation/</link><pubDate>Sun, 05 Apr 2026 10:30:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/cooperation/</guid><description/></item><item><title>医院</title><link>https://bjdhr.org.cn/tags/%E5%8C%BB%E9%99%A2/</link><pubDate>Sun, 05 Apr 2026 10:30:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/%E5%8C%BB%E9%99%A2/</guid><description/></item><item><title>合作</title><link>https://bjdhr.org.cn/tags/%E5%90%88%E4%BD%9C/</link><pubDate>Sun, 05 Apr 2026 10:30:00 +0800</pubDate><guid>https://bjdhr.org.cn/tags/%E5%90%88%E4%BD%9C/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 北京数字健康研究会 | Beijing Digital Health Research Institute</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on 北京数字健康研究会 | Beijing Digital Health Research Institute</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 Apr 2026 09:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inauguration</title>
+      <link>http://localhost:1313/tags/inauguration/</link>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/inauguration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>成立</title>
+      <link>http://localhost:1313/tags/%E6%88%90%E7%AB%8B/</link>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E6%88%90%E7%AB%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>重要新闻</title>
+      <link>http://localhost:1313/tags/%E9%87%8D%E8%A6%81%E6%96%B0%E9%97%BB/</link>
+      <pubDate>Fri, 10 Apr 2026 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E9%87%8D%E8%A6%81%E6%96%B0%E9%97%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+      <pubDate>Wed, 08 Apr 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>学术会议</title>
+      <link>http://localhost:1313/tags/%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE/</link>
+      <pubDate>Wed, 08 Apr 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>征文</title>
+      <link>http://localhost:1313/tags/%E5%BE%81%E6%96%87/</link>
+      <pubDate>Wed, 08 Apr 2026 14:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%BE%81%E6%96%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cooperation</title>
+      <link>http://localhost:1313/tags/cooperation/</link>
+      <pubDate>Sun, 05 Apr 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/cooperation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>医院</title>
+      <link>http://localhost:1313/tags/%E5%8C%BB%E9%99%A2/</link>
+      <pubDate>Sun, 05 Apr 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%8C%BB%E9%99%A2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>合作</title>
+      <link>http://localhost:1313/tags/%E5%90%88%E4%BD%9C/</link>
+      <pubDate>Sun, 05 Apr 2026 10:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%90%88%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

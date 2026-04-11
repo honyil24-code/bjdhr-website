@@ -1,30 +1,12 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>
-  {{ partial "head.html" . }}
-  <link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
-</head>
-<body>
-  {{ partial "header.html" . }}
-  {{ partial "hero.html" . }}
-  
-  <main class="container">
-    <div class="content">
-      {{ .Content }}
-      
-      <section class="latest-news">
-        <h2>最新动态 | Latest News</h2>
-        {{ range first 3 (where .Site.RegularPages "Type" "news") }}
-        <article class="news-item">
-          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <p class="date">{{ .Date.Format "2006-01-02" }}</p>
-          <p>{{ .Summary }}</p>
-        </article>
-        {{ end }}
-      </section>
-    </div>
-  </main>
-  
-  {{ partial "footer.html" . }}
-</body>
-</html>
+{{ define "main" }}
+
+<!-- Search Section -->
+{{ partial "search.html" . }}
+
+<!-- News Subscription -->
+{{ partial "news-subscribe.html" . }}
+
+<!-- Regular content -->
+{{ .Content }}
+
+{{ end }}
